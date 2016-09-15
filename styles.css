@@ -1,0 +1,72 @@
+*{
+   box-sizing: border-box;
+}
+mark{
+   background: none;
+}
+.simple-article-layout div{
+   line-height: 1.25;
+   padding-top: 20px;
+   padding-left: 10%;
+   padding-right: 40%;
+}
+.simple-article-layout{
+font-family: 'Georgia';
+background-color: #FBF9F1;
+
+}
+
+.simple-article-layout .highlight{
+   color:#8FA2D1;
+
+}
+.simple-article-layout{
+
+
+}
+.simple-article-layout h2 {
+   font-size: 20px;
+   font-weight: normal;
+}
+/* First heading styles */
+.simple-article-layout .One{
+
+   text-decoration: underline;
+}
+.simple-article-layout .Two{
+   font-family: 'Geneva';
+   color: #fff;
+   background-color: #000;
+
+}
+.simple-article-layout .hello{
+   font-weight: normal;
+}
+/* end simple-article-layout */
+
+
+/* Begin Menu-list */
+
+.Menu-list ul{
+   list-style-type: none;
+   font-family: 'Avenir';
+   margin-right: 65%;
+   margin-left: -30px;
+
+
+}
+.Menu-list li{
+   padding: 10px 0 10px 10px;;
+   border: 1px solid #999;
+}
+.Menu-list .Home{
+   color: #66cc99;
+}
+/* End Menu-list */
+
+
+/* Begin Icon Set */
+.icon-set{
+   font-familiy: "Georgia" "Geneva";
+   border-bottom: 2px solid #000;
+}
